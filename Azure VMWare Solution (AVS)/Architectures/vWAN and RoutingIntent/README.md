@@ -9,9 +9,16 @@
 
 
 ## Navigation Menu: 
-- [Overview/Summary](https://github.com/suellenferreira/AzureCore/edit/suellenferreira-patch-1/README.md#overviewsummary)
-- [Docs for reference](https://github.com/suellenferreira/AzureCore/edit/suellenferreira-patch-1/README.md#docs-for-reference)
-- [Common scenarios where "AVS with VWAN Secure Hub + RoutingIntent" is applicable](https://github.com/suellenferreira/AzureCore/edit/suellenferreira-patch-1/README.md#common-scenarios-where-avs-with-vwan-secure-hub--routingintent-is-applicable)
+- [Overview/Summary](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#overviewsummary)
+- [Docs for reference](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#docs-for-reference)
+- [Common scenarios where "AVS with VWAN Secure Hub + RoutingIntent" is applicable](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#common-scenarios-where-avs-with-vwan-secure-hub--routingintent-is-applicable)
+- [AVS General Architecture (Macro view)](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#avs-general-architecture)
+- AVS with vWAN Secure Hub + RoutingIntent Architecture (Greenfield)
+  1. [(ER Only) AVS with vWAN Secure Hub + RoutingIntent Architecture (Greenfield)](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#1-er-only-avs-with-vwan-secure-hub--routingintent-architecture-greenfield)
+  2. [(ER + VPN) AVS with vWAN Secure Hub + RoutingIntent Architecture (Greenfield)](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#2-er--vpn-avs-with-vwan-secure-hub--routingintent-architecture-greenfield)
+- AVS with vWAN Secure Hub + RoutingIntent Architecture (Brownfield)
+  1. [(ER Only) AVS with vWAN Secure Hub + RoutingIntent Architecture (Brownfield)](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#1-er-only-avs-with-vwan-secure-hub--routingintent-architecture-brownfield)
+  2. [(ER + VPN) AVS with vWAN Secure Hub + RoutingIntent Architecture (Brownfield)](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#2-er--vpn-avs-with-vwan-secure-hub--routingintent-architecture-brownfield)
 
 ## Overview/Summary:
 
