@@ -1,5 +1,13 @@
 # AVS with vWAN Secure Hub + RoutingIntent (ER-to-ER connectivity)
 
+**>>>>>>>>>>>> NOTE: This article is NOT ready yet. It is a WORKING IN PROGESS <<<<<<<<<<<**
+
+**>>>>>>>>>>>> NOTE: This article is NOT ready yet. It is a WORKING IN PROGESS <<<<<<<<<<<**
+
+**>>>>>>>>>>>> NOTE: This article is NOT ready yet. It is a WORKING IN PROGESS <<<<<<<<<<<**
+
+
+
 ## Navigation Menu: 
 - [Overview/Summary](https://github.com/suellenferreira/AzureCore/edit/suellenferreira-patch-1/README.md#overviewsummary)
 - [Docs for reference](https://github.com/suellenferreira/AzureCore/edit/suellenferreira-patch-1/README.md#docs-for-reference)
