@@ -10,7 +10,6 @@
 
 ## Navigation Menu: 
 - [Overview/Summary](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#overviewsummary)
-- [Docs for reference](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#docs-for-reference)
 - [Common scenarios where "AVS with VWAN Secure Hub + RoutingIntent" is applicable](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#common-scenarios-where-avs-with-vwan-secure-hub--routingintent-is-applicable)
 - [AVS General Architecture (Macro view)](https://github.com/suellenferreira/AzureCore/blob/suellenferreira-patch-1/Azure%20VMWare%20Solution%20(AVS)/Architectures/vWAN%20and%20RoutingIntent/README.md#avs-general-architecture)
 - AVS with vWAN Secure Hub + RoutingIntent Architecture (Greenfield)
@@ -37,9 +36,9 @@ We currently do not have a design document that explains how to provide ER-to-ER
 
 - GlobalReach (GR) is not an option:
   1. GR not available in the country (check availability on [aka.ms/globalreach](https://aka.ms/GlobalReach))
-  2. Inspection be between on-prem and AVS is a requirement to be done in Azure
+  2. Inspection between on-prem and AVS is required to be done in Azure
 
-- vWAN Secure Hub is already in use by Customer
+- vWAN Hub is already in use by Customer
 
 
 
