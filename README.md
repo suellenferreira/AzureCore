@@ -21,7 +21,7 @@ We currently do not have a design document that explains how to provide ER-to-ER
 ## Common scenarios where "AVS with vWAN Secure Hub + RoutingIntent" is applicable: 
 
 - GlobalReach (GR) is not an option:
-  1. GR not available in the country
+  1. GR not available in the country (check availability on [aka.ms/globalreach](https://aka.ms/GlobalReach))
   2. Inspection be between on-prem and AVS is a requirement to be done in Azure
 
 - vWAN Secure Hub is already in use by Customer
