@@ -7,7 +7,7 @@
 
 ## Overview/Summary:
 
-This document explains best practices on how to an architecture to connect on-prem VMWare environment to Azure VMware Solutions (AVS) where ExpressRoute (ER) is used as circuit to connect on-prem to Azure and GlobalReach is unavailable or disabled for any reason. To provide this communication we will use Azure vWAN Secure Hub + Routing Intent to provide ER-to-ER connectivity (between on-prem and AVS).
+This document explains best practices to build an architecture to connect on-prem VMWare environment to Azure VMware Solutions (AVS) where ExpressRoute (ER) is used as circuit to connect on-prem to Azure and GlobalReach is unavailable or disabled for any reason. To provide this communication we will use Azure vWAN Secure Hub + Routing Intent to provide ER-to-ER connectivity (between on-prem and AVS).
 
 We currently do not have a design document that explains how to provide ER-to-ER connectivity from on-prem to AVS with vWAN Secure Hub + RoutingIntent. This document gives our customers design best practices to use vWAN with Routing Intent in Dual Region AVS deployments.
   
@@ -21,4 +21,5 @@ We currently do not have a design document that explains how to provide ER-to-ER
 ## Common scenarios where "AVS with vWAN Secure Hub + RoutingIntent" is applicable: 
 
 
+**AVS General Architecture:** 
 
